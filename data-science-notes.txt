@@ -1,0 +1,26 @@
+Data: facts or figures from which conclusions may be drawn
+
+temporal: relating to time
+
+data science vs. computational science
+
+empirical: based on experience or observation rather than theory
+
+computation data scientist tasks
+- collecting and categorizing large data sets
+- cleaning and validating data
+
+common questions that a computational data scientist will ask
+- what % of users come back to our site?
+- which city is better for opening new office?
+- which products usually bought together?
+
+computational and data science pipeline
+acquire -> cleanse -> explore -> model -> present
+
+session: a period devoted to a particular activity
+
+mystery: something that is difficult to understand or explain
+
+demystify: make (a difficult subject) easier to understand
+
